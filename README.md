@@ -1,5 +1,6 @@
-:vulcan_salute: :vulcan_salute: :vulcan_salute: 
-##    *«Мы всегда работаем слаженно.*
-##           *Слажали и на этот раз»*
-:vulcan_salute::vulcan_salute: :vulcan_salute:
-##Студент первого радиотеха СПбПУ
+> Люди полагают, что время — это четкая последовательность причин и следствий, но с нелинейной объективной точки зрения оно больше похоже на огромный шар колеблющегося, волнующегося вещества
+-  10 Доктор
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/CmQQsUxwjBEgU/giphy.gif" width="400"/>
+</div>
+---
